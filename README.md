@@ -35,10 +35,10 @@ A customer churn analysis is a typical classification problem within the domain 
 
 ## Folder Overview
 
-- pipeline:   Folder containing.
-- static:     Folder to.
-- templates:  Folder to.
-- data:       Folder to.
+- pipeline:   Folder containing source code
+- static:     Folder containing some images, css and JavaScript used on the web app
+- templates:  Folder containing html codes of the churn webapp
+- data:       Folder containing all the csv files and the main dataset
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
